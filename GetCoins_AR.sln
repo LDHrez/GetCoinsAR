@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetCoins_AR", "GetCoins_AR.csproj", "{1048C498-7ECE-39AE-2999-12C80ADB5AEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetCoins_AR.Editor", "GetCoins_AR.Editor.csproj", "{22269F78-3C76-FDEE-3E73-31163A054565}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1048C498-7ECE-39AE-2999-12C80ADB5AEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1048C498-7ECE-39AE-2999-12C80ADB5AEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1048C498-7ECE-39AE-2999-12C80ADB5AEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1048C498-7ECE-39AE-2999-12C80ADB5AEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22269F78-3C76-FDEE-3E73-31163A054565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22269F78-3C76-FDEE-3E73-31163A054565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22269F78-3C76-FDEE-3E73-31163A054565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22269F78-3C76-FDEE-3E73-31163A054565}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
